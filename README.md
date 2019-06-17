@@ -19,7 +19,6 @@ Another thing to mention is that you remained focused and motivated throughout a
 Having not worked with you regularly and only briefly in a team, I'm going to go off my current experience which is positive, all I can say based of the week is to continue to improve on your existing communication skills and flexibility when working with people of various skill levels to further enhance your supportive ability.
 
 ### Xain
-Pairing session on the Notes app:
 
 Max was an great, engaging partner to work with. His understanding of JavaScript is solid and he didn't hesitate to share his knowledge when it was needed. At points where he felt he didn't understand something, he took the time to research relevant concepts and go over them before continuing.
 
@@ -30,7 +29,6 @@ While we didn't get far into the challenge, we both focused on grasping the smal
 Overall, Max was a thorough and respectful partner, and I learned a lot from our session. I particularly appreciated the time he took to observe my own version of the application so we could understand that better as well.
 
 ### Kiah
-Pairing session on the Notes app:
 
 Working with you was an absolute pleasure. I felt we both got a lot out of the session and deepened our understanding of JS. 
 You were extremely patient and more than willing to offer assistance whilst still allowing me to learn independently. 
